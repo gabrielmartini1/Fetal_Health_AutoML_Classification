@@ -10,9 +10,9 @@ An exploratory analysis of classifying fetal health to prevent child and materna
 
 <p align="justify">Após a análise exploratória dos dados, o projeto conclui que o IMC, idade e fumante são os fatores mais relevantes para a previsão de custos de seguro saúde. O modelo de regressão desenvolvido com o Pycaret apresenta um bom desempenho, com métricas como MAE, MSE, RMSE, R2, RMSLE e MAPE, e pode ser usado pelas seguradoras para definir preços competitivos e gerenciar riscos de forma mais eficiente.</p>
 
-<p align="right"><font size="1.5">Imagem de Iuri Imotov no <a href="https://br.freepik.com/vetores-gratis/conceito-de-servicos-de-seguros-esfera-3d-abstrata-ou-globo-com-icones-na-mao_9175929.htm#page=6&query=Health%20Insurance&position=30&from_view=search&track=robertav1_2_sidr">Freepik</a></p></font>
+<p align="right"><font size="1.5">Imagem de <a href="https://br.freepik.com/fotos-gratis/ginecologista-oferecendo-fotos-de-ultrassom-de-casal_24749408.htm#page=3&query=Fetal%20Health%20Classification&position=29&from_view=search&track=ais">Freepik</a></p></font>
 
-<img alt="Health Insurance" width="100%" src="https://img.freepik.com/vetores-gratis/conceito-de-servicos-de-seguros-esfera-3d-abstrata-ou-globo-com-icones-na-mao_127544-1099.jpg?size=626&ext=jpg&ga=GA1.1.2136607038.1682451857&semt=robertav1_2_sidr">
+<img alt="Fetal Health" width="100%" src="https://img.freepik.com/fotos-gratis/ginecologista-oferecendo-fotos-de-ultrassom-de-casal_23-2149353052.jpg?size=626&ext=jpg&ga=GA1.1.658259557.1682708986&semt=ais">
 
 <p align="justify">O projeto tem como objetivo analisar a previsão de custos de seguro saúde e investigar o impacto de diferentes atributos dos segurados nessa previsão. Para isso, utiliza-se o Pandas Profiling para uma análise exploratória dos dados e a biblioteca Pycaret do Python para desenvolver um modelo de regressão Gradient Boosting Regressor.</p>
 
