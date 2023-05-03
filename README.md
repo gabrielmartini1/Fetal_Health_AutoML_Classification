@@ -16,7 +16,7 @@ An exploratory analysis of classifying fetal health to prevent child and materna
 <p align="justify">O uso de técnicas de aprendizado de máquina na previsão da saúde fetal pode trazer diversos benefícios, como por exemplo, a precisão, a rapidez, redução de erros, melhoria na tomada de decisões e melhoria na saúde fetal.  Através do Pandas Profiling, podemos rapidamente realizar uma análise exploratória dos dados e levantar os principais indicadores estatísticos que serão a base para a construção dos modelos de aprendizado de máquina.</p>
 
 <p align="justify">O projeto tem como objetivo criar um Classificador eficiente, usando algorítmos de aprendizado de máquina automatizados (AutoML) para prevenir a mortalidade infantil e materna.</p>
-
+<br>
 
 **Palavras-Chave:** AutoML, predictive model, classification model.
 
