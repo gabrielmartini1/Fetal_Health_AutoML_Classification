@@ -6,15 +6,15 @@ An exploratory analysis of classifying fetal health to prevent child and materna
 
 <p align="center"><strong>RESUMO</strong></p>
 
-<p align="justify">No geral, o projeto apresenta uma abordagem prática e aplicada de análise de dados e machine learning para o contexto de seguros de saúde, demonstrando o potencial dessas técnicas para ajudar as empresas a tomar decisões mais informadas e melhorar seus serviços.</p>
+<p align="justify">A mortalidade infantil e materna, ainda são um problema em muitas regiões do mundo, com destaque para a África Subsaariana e o sul da Ásia. No entanto, houve avanços na redução desses números graças a políticas públicas que priorizam o acesso à saúde de qualidade para mulheres e crianças. O objetivo é atingir as metas estabelecidas na Agenda 2030 da ONU, mas é necessário acelerar o progresso para cumprir essas metas em muitos países. No Brasil, houve uma redução na taxa de mortalidade infantil, mas ainda há desigualdades regionais.</p>
 
-<p align="justify">Após a análise exploratória dos dados, o projeto conclui que o IMC, idade e fumante são os fatores mais relevantes para a previsão de custos de seguro saúde. O modelo de regressão desenvolvido com o Pycaret apresenta um bom desempenho, com métricas como MAE, MSE, RMSE, R2, RMSLE e MAPE, e pode ser usado pelas seguradoras para definir preços competitivos e gerenciar riscos de forma mais eficiente.</p>
+<p align="justify">O uso de técnicas de aprendizado de máquina na previsão da saúde fetal pode trazer diversos benefícios, como por exemplo, a precisão, a rapidez, redução de erros, melhoria na tomada de decisões e melhoria na saúde fetal.  Através do Pandas Profiling, podemos rapidamente realizar uma análise exploratória dos dados e levantar os principais indicadores estatísticos que serão a base para a construção dos modelos de aprendizado de máquina.</p>
 
 <p align="right"><font size="1.5">Imagem de <a href="https://br.freepik.com/fotos-gratis/ginecologista-oferecendo-fotos-de-ultrassom-de-casal_24749408.htm#page=3&query=Fetal%20Health%20Classification&position=29&from_view=search&track=ais">Freepik</a></p></font>
 
 <img alt="Fetal Health" width="100%" src="https://img.freepik.com/fotos-gratis/ginecologista-oferecendo-fotos-de-ultrassom-de-casal_23-2149353052.jpg?size=626&ext=jpg&ga=GA1.1.658259557.1682708986&semt=ais">
 
-<p align="justify">O projeto tem como objetivo analisar a previsão de custos de seguro saúde e investigar o impacto de diferentes atributos dos segurados nessa previsão. Para isso, utiliza-se o Pandas Profiling para uma análise exploratória dos dados e a biblioteca Pycaret do Python para desenvolver um modelo de regressão Gradient Boosting Regressor.</p>
+<p align="justify">O projeto tem como objetivo criar um Classificador eficiente, usando algorítmos de aprendizado de máquina automatizados (AutoML) para prevenir a mortalidade infantil e materna.</p>
 
 **Palavras-Chave:** AutoML, predictive model, classification model.
 
